@@ -1,3 +1,3 @@
 # Code-Samples
 
-Codes samples from various projects ranging from Unreal Engine C++ and Unity C#
+Codes samples from various projects ranging from Unreal Engine, general C++ and Unity C#
